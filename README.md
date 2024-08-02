@@ -13,7 +13,7 @@ This is a solution to the [Blog Preview Card Challenge](https://www.frontendment
 ### Links
 
 - Live Site URL: https://sunny-pothos-6873cd.netlify.app/
-- Solution URL: [include github url]
+- Solution URL: https://github.com/kateahn6/blog-preview-card/tree/main
 
 ## My process
 
