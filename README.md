@@ -7,7 +7,7 @@ This is a solution to the [Blog Preview Card Challenge](https://www.frontendment
 > This HTML & CSS-only challenge is a perfect project for beginners getting up to speed with HTML and CSS fundamentals, like HTML structure and the box model.
 
 ### Screenshot
-![preview](https://github.com/user-attachments/assets/493d7495-c789-4e77-9769-380f6e61bbb4)
+![jquszyijb2sxtpl3krck](https://github.com/user-attachments/assets/f94a7535-482d-4ac7-ab70-05474579a817)
 
 ### Links
 
