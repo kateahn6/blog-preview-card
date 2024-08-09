@@ -4,7 +4,11 @@ This is a solution to the [Blog Preview Card Challenge](https://www.frontendment
 
 ### The Challenge
 
-> This HTML & CSS-only challenge is a perfect project for beginners getting up to speed with HTML and CSS fundamentals, like HTML structure and the box model.
+>Your challenge is to build out this blog preview card and get it looking as close to the design as possible.
+>
+>Your users should be able to:
+>
+> - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 ![jquszyijb2sxtpl3krck](https://github.com/user-attachments/assets/f94a7535-482d-4ac7-ab70-05474579a817)
